@@ -10,8 +10,6 @@ author_profile: true
 
 ---
 
-<div align="center">
-
 ## 🛡️ **IANJOSHUA MURITHI NDIRITU**
 
 ---
@@ -23,9 +21,6 @@ author_profile: true
 | *Learn about my journey* | *Professional credentials* | *Technical showcase* |
 
 ---
-
-
-<div align="center">
 
 ## 📞 **Get In Touch**
 
@@ -40,4 +35,4 @@ author_profile: true
 
 
 
-</div>
+\

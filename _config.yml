@@ -61,7 +61,7 @@ author:
   bio    : "."
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/ianjoshua-murithi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -69,16 +69,17 @@ author:
     
 
 footer:
+  contacts:
+    - label: "Phone"
+      icon: "fas fa-phone"
+      url: "tel:+254796470265"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:ianjoshuamurithi@gmail.com"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/ianjoshua-M"
 
 defaults:
   # _posts

@@ -33,12 +33,12 @@ A comprehensive platform for an enterprise organization to manage phishing simul
 -Reports and analytics
 -Training material management
 
-### **Project 2: Students Results Management System for Mweiga Secondary School**
+### **Project 2: Students Results Management System for Mweiga High School**
 
 ![Alt text](./images/proj2.jpg)
 
 #### 📋 **Project Overview**
-A results management platform for a mixed secondary school with result slip generation and report generation.
+A results management platform for a mixed High school with result slip generation and report generation.
 
 #### 🎯 **Key Features**
 -Student management
@@ -50,7 +50,7 @@ A results management platform for a mixed secondary school with result slip gene
 
 ### **Project 3: Quizz app**
 
-![Alt text](./images/proj3.jpg)
+![Alt text](./images/proj3.JPG)
 
 #### 📋 **Project Overview**
 A python application that lets the user upload pdf files of question dumps and attempt the questions.

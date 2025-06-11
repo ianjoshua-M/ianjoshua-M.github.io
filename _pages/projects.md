@@ -17,11 +17,11 @@ Welcome to my projects portfolio! Here you'll find a collection of projects ive 
 
 ---
 
-## 🛡️ ** Projects**
+## 🛡️ **Projects**
 
-### **Project 1: Phishing training and awareness simulation platform **
+### **Project 1: Phishing training and awareness simulation platform**
 
-![Alt text](./assets/images/proj1.JPG)
+![Alt text](./images/proj1.JPG)
 
 #### 📋 **Project Overview**
 A comprehensive platform for an enterprise organization to manage phishing simulations and dispense training to employees.

@@ -67,7 +67,7 @@ These contributions bolstered organizational efficiency while deepening my exper
 ## 🌍 LANGUAGES
 
 - **🇰🇪 Swahili** - Native
-- **🇺🇸 English** - Fluent
+- **English** - Fluent
 
 ---
 

@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ianjoshua Murithi Ndiritu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "."
+  bio    : "Information security professional | HCIA-Security."
   links:
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"

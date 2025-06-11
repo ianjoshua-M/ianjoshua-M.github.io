@@ -6,7 +6,7 @@ author_profile: false
 
 ---
 
-# HTB Academy: Introduction to Network Traffic Analysis
+# HTB Academy: Introduction to Network Traffic Analysis 💻🔍
 
 ![Network Traffic Analysis](./images/lab1.JPG)
 *HTB Academy: Intro to Network Traffic Analysis*

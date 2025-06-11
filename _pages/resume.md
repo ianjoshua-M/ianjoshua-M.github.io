@@ -2,7 +2,7 @@
 title: "Resume"
 layout: single
 permalink: /resume/
-author_profile: true
+author_profile: false
 ---
 
 # IANJOSHUA MURITHI NDIRITU

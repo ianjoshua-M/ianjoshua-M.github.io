@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Home"
     url: /posts/
-  - title: "Categories"
+  - title: "Resume"
     url: /categories/
-  - title: "Tags"
+  - title: "Projects"
     url: /tags/
-  - title: "About"
+  - title: "Labs"
     url: /about/
+  - title: "Contacts"
+    url: /contacts/

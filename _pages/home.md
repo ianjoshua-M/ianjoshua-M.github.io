@@ -3,10 +3,6 @@ title: "Home"
 layout: single
 permalink: /home/
 author_profile: true
----
-
-
-# Welcome to My Digital Portfolio
 
 ---
 

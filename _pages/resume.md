@@ -14,7 +14,7 @@ author_profile: true
 **📍 Location:** Nairobi, Kenya  
 **📞 Phone:** +254796470265  
 **✉️ Email:** ianjoshuamurithi@gmail.com  
-**💼 LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/your-profile)
+**💼 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ianjoshua-murithi/)
 
 ---
 

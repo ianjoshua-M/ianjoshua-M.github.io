@@ -20,7 +20,7 @@ author_profile: true
 
 ## 👤 PROFILE
 
-Dedicated information security professional having recently completed a degree in Information Security and Forensics complemented by relevant IT certifications. I am passionate about network, enterprise, and infrastructure security with relevant hands-on experience. Seeking a role where I can apply my technical expertise and master advanced tools and technologies to optimize and secure enterprise IT environments. I bring a commitment to continuous learning and a strong foundation in identifying, analysing, and mitigating security threats across complex network infrastructures.
+Dedicated information security professional having recently completed a degree in Information Security and Forensics complemented by relevant IT certifications. I am passionate about network, enterprise, and infrastructure security with relevant hands-on experience. Seeking a role where I can apply my technical expertise and master advanced tools and technologies to optimize and secure enterprise IT environments. I bring a commitment to continuous learning and a strong foundation in identifying, analysing, and mitigating security threats.
 
 ---
 

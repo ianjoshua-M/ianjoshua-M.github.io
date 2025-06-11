@@ -55,6 +55,9 @@ A results management platform for a mixed secondary school with result slip gene
 #### 📋 **Project Overview**
 A python application that lets the user upload pdf files of question dumps and attempt the questions.
 
+#### 🎯 **Key Features**
+-Easy study of question dumps
+-Interactive navigation
 
 #### 🔗 **Project Link**
 **[📂 View on GitHub](https://github.com/ianjoshua-M/quizz_app)**

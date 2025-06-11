@@ -8,17 +8,13 @@ author_profile: true
 
 # Hi 👋 Welcome to My Digital Portfolio
 
----
-
-## 🛡️ **IANJOSHUA MURITHI NDIRITU**
 
 ---
 
 ### 🌟 Quick Navigation
 
-| 🏠 [**About Me**](./home.md) | 📄 [**Resume**](./resume.md) | 💼 [**Projects**](./projects.md) |
-|:---:|:---:|:---:|
-| *Learn about my journey* | *Professional credentials* | *Technical showcase* |
+| 🏠 [**About Me**](./home/) | 📄 [**Resume**](./resume/) | 💼 [**Projects**](./projects/) |
+
 
 ---
 
@@ -31,7 +27,7 @@ author_profile: true
 [+254796470265](tel:+254796470265)
 
 ### 💼 **Connect Professionally**
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/ianjoshua-murithi/) | [GitHub](https://github.com/ianjoshua-M)
 
 
 
